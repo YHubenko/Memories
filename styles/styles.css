@@ -13,6 +13,7 @@ body {
     background-size: cover;
     background-color: rgba(253, 187, 84, 0.76);
     border-radius: 100%;
+    transition: 0.15s;
 }
 
 #board {
